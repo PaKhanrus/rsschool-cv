@@ -38,4 +38,4 @@ function myFunction() {
 
 
 ##### Languages:
-* https://www.lingoda.com/       Intermediate B1
+* https://www.lingoda.com/       Intermediate B1+
